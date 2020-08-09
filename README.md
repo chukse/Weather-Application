@@ -13,6 +13,9 @@ Random Background Images are used from Google without permission
 + run ```npm install``` and then `npm build`
 + then run ```npm start``` to start the localhost in your browser 
 
+# How to Use
++ User can enter any city in the search box and get the realtime temperature 
+
 
 
 
