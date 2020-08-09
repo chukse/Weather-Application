@@ -10,14 +10,11 @@ Random Background Images are used from Google without permission
 # How to Run
 + Clone or download the repository
 + open the terminal and move to where the project was downloaded 
-+ run npm install and then npm build
++ run ```npm install``` and then `npm build`
 + then run npm start to start the localhost in your browser 
 
 
 
 
-```console
-foo@bar:~$ whoami
-foo
-```
+
 
