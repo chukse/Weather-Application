@@ -15,3 +15,9 @@ Random Background Images are used from Google without permission
 
 
 
+
+```console
+foo@bar:~$ whoami
+foo
+```
+
